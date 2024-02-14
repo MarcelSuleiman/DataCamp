@@ -6,7 +6,7 @@
 You should now be familiar with the differences between OLTP and OLAP. In this exercise, you are given a list of cards describing a specific approach which you will categorize between OLAP and OLTP.
 ##### Question
 ###### Result
-![](olap_vs_oltp.png)
+![](olap_vs_oltp.PNG)
 
 #### Exercise
 ##### Which is better?
