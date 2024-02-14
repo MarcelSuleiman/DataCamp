@@ -138,7 +138,7 @@ CREATE TABLE week(
 #### Exercise
 ##### Querying the dimensional model
 Here it is! The schema reorganized using the dimensional model: 
-![](run_dim.PNG)
+![](run_dim.png)
 Let's try to run a query based on this schema. How about we try to find the number of minutes we ran in July, 2019? We'll break this up in two steps. First, we'll get the total number of minutes recorded in the database. Second, we'll narrow down that query to `week_id`'s from July, 2019.
 ##### Instruction 1/2
 > - Calculate the sum of the duration_mins column.
